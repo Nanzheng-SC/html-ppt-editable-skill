@@ -1,0 +1,15 @@
+work/
+outputs/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+node_modules/
+dist/
+build/
+coverage/
+
+*.log
+*.tmp
+*.temp
