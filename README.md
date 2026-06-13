@@ -2,11 +2,11 @@
 
 一个给 Codex / Claude Code / Cursor / 兼容 Agent 用的 HTML PPT skill。
 
-它把 `html-ppt-skill` 的主题、模板、演讲者模式和 `frontend-slides` 的浏览器内联编辑能力合在一起：AI 先帮你生成一份像样的静态 HTML slides，后面你可以直接在浏览器里点字改、自动保存、再导出完整 HTML。
+把 `html-ppt-skill` 的主题、模板、演讲者模式和 `frontend-slides` 的浏览器内联编辑能力合在一起：AI 先帮你生成一份像样的静态 HTML slides，后面你可以直接在浏览器里点字改、自动保存、再导出完整 HTML。
 
 核心：
 
-> 让 agent 先把 deck 做到能看，再让人直接在浏览器里微调文字；不用每改一个字都重新叫 AI。
+> 让 agent 先把 deck 做到能看，再让人直接在浏览器里微调文字；不用每改一个字都重新用 Agent。
 
 ## 适合谁
 
